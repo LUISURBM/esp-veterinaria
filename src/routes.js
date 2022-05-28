@@ -59,7 +59,7 @@ const routes = [
 },
 {
   type: "collapse",
-  name: "Veterinarios",
+  name: "Veterinarios.",
   key: "dashboard",
   icon: <Icon fontSize="small">dashboard</Icon>,
   route: "/veterinarios",
